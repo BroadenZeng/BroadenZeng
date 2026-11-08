@@ -31,7 +31,7 @@
 
 我主持的团队教学智能体项目，基于智雅平台搭建，面向线性代数学习场景，探索学生理解困难的识别、分层提示与自主学习支持。
 
-[体验线代智感](https://app-lc5iy18w0q0c.cxiagents.com/)
+[体验线代智感](https://app-lc5iy18w0q0c.cxiagents.com/) · [查看项目与说明书](https://github.com/BroadenZeng/linear-algebra-learning-agent)
 
 ## 教育经历
 
