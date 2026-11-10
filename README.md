@@ -18,7 +18,7 @@
 
 围绕实际课堂需求开发的交互式高等数学课件，融合动态图像、逐步推导与课堂手写，帮助学生从直观观察走向数学理解。
 
-目前已发布「洛必达法则」，其他章节持续建设中。
+目前已发布「3.3 洛必达法则」和「3.4 函数的单调性与曲线的凹凸性」，其他章节持续建设中。
 
 [在线体验](https://broadenzeng.github.io/higher-math-interactive/) · [GitHub 仓库](https://github.com/BroadenZeng/higher-math-interactive)
 
