@@ -1,44 +1,8 @@
-# 曾展宽 · Broaden Zeng
+# 数学教学与交互学习
 
-**嘉应学院 · 数学教师 · 计算数学博士**
+探索数学教学、交互式可视化和 AI 辅助学习。
 
-关注数学如何被理解，也探索技术如何让数学学习更加直观、有效。
+## 项目
 
-## 关于我
-
-目前任教于嘉应学院，主要讲授《高等数学》《线性代数》和《解析几何》。
-
-在教学实践中，我关注数学概念的引入、学生的思考过程以及学习困难的形成原因。同时，尝试将交互式可视化、人工智能与课堂教学相结合，开发真正服务于数学学习的工具。
-
-## 教学项目
-
-### 01 · 高等数学交互课件
-
-**让数学概念可观察，让推导过程可探索。**
-
-围绕实际课堂需求开发的交互式高等数学课件，融合动态图像、逐步推导与课堂手写，帮助学生从直观观察走向数学理解。
-
-目前已发布「3.3 洛必达法则」和「3.4 函数的单调性与曲线的凹凸性」，其他章节持续建设中。
-
-[在线体验](https://broadenzeng.github.io/higher-math-interactive/) · [GitHub 仓库](https://github.com/BroadenZeng/higher-math-interactive)
-
-### 02 · 线代智感
-
-**探索 AI 如何帮助学生跨越数学理解中的障碍。**
-
-由我主持的团队基于智雅平台开发的线性代数学习智能体，尝试识别学生的理解困难，通过分层提示与引导式交互，支持学生自主思考和学习。
-
-[体验智能体](https://app-lc5iy18w0q0c.cxiagents.com/) · [项目仓库与说明书](https://github.com/BroadenZeng/linear-algebra-learning-agent)
-
-## 关注方向
-
-- **数学教学设计** — 概念引入、问题驱动与数学思维培养
-- **交互式数学工具** — 动态可视化、课堂交互与数字课件
-- **AI 辅助数学学习** — 学习困难识别、分层提示与自主学习
-- **教学工作流与自动化** — 备课、练习设计与教学评价
-
-## 联系与交流
-
-欢迎交流数学教学、交互式课件及 AI 辅助学习方面的想法与实践。
-
-**Email：** [broadenzeng@gmail.com](mailto:broadenzeng@gmail.com)
+- **高等数学交互课件**：通过动态图像和逐步推导探索数学概念。[在线体验](https://broadenzeng.github.io/higher-math-interactive/) · [项目仓库](https://github.com/BroadenZeng/higher-math-interactive)
+- **线代智感**：通过分层提示和引导式交互支持线性代数学习。[体验智能体](https://app-lc5iy18w0q0c.cxiagents.com/) · [项目仓库](https://github.com/BroadenZeng/linear-algebra-learning-agent)
